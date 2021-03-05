@@ -1,0 +1,4 @@
+Analysis:
+1)Male palyer count is higher than others.
+2)maximum percentage of players falls in the agegroup b/w "20-24"
+3)Popular Items are: Final Critic,Oathbreaker, Last Hope of the Breaking Storm.
